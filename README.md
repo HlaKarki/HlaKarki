@@ -1,7 +1,7 @@
 - Hi, I’m @HlaKarki
 - I’m interested in computer programming
 - I’m currently studying to obtain my bachelors degree in computer science
-- I’m looking to collaborate on cool projects
+- I’m looking for internship
 - Reach to me through email: hla.htuncs@gmail.com 
 
 <!---
