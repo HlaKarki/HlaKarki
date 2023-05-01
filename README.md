@@ -1,6 +1,5 @@
 - Hi, I’m @HlaKarki
-- I’m interested in computer programming
-- I’m currently studying to obtain my bachelors degree in computer science
+- I’m currently studying for bachelor’s in Computer Science at Oregon State University
 - I’m looking for internship
 - Reach to me through email: hla.htuncs@gmail.com 
 
