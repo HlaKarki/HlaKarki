@@ -1,7 +1,7 @@
 # I'm Hla Htun 👋
 
-I'm a passionate Full Stack Developer with a strong background in web development and software engineering from 🇲🇲 Myanmar. I recently graduated from Oregon State University with a degree in Computer Science. I'm eager to leverage my skills to build impactful and innovative solutions.
-- Looking for work! 💼
+Full Stack Developer with a strong background in web development and software engineering from 🇲🇲 Myanmar. Eager to leverage my skills to build impactful and innovative solutions.
+- Contact me to collaborate! 💼
 
 ## Skills
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
