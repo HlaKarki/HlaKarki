@@ -1,6 +1,6 @@
-# I'm Hla Htun 👋
+# I'm Hla 👋
 
-Full Stack Developer with a strong background in web development and software engineering from 🇲🇲 Myanmar. Eager to leverage my skills to build impactful and innovative solutions.
+Full Stack Developer from 🇲🇲 Myanmar currently based in the 🇺🇸 US.
 - Contact me to collaborate! 💼
 
 ## Skills
