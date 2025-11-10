@@ -1,6 +1,6 @@
 # I'm Hla 👋
 
-Full Stack Developer from 🇲🇲 Myanmar currently based in the 🇺🇸 US.
+Full Stack Developer from Myanmar currently based in the 🇺🇸 US.
 - Contact me to collaborate! 💼
 
 ## Skills
