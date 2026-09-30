@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Hla)](https://git.io/typing-svg)
 
-**Software Developer from 🇲🇲 Myanmar, based in 🇺🇸 US**
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hlahtun)
