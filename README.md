@@ -6,6 +6,7 @@ Addicted to building personal software. Now trying to contribute more to the ope
 
 #### Building
 
+- **[thoughts](https://github.com/HlaKarki/thoughts)**: Mac app for what you find while you work. Text and screenshots from any app, kept as Markdown files you own.
 - **hush**: My own browser. arc's feel, and claude can drive it entirely. (currently private)
 - **[pacer](https://github.com/HlaKarki/pacer)**: Speed reader that leaves the page alone. Chrome extension, Obsidian plugin and web app.
 - **[spendoff](https://github.com/HlaKarki/spendoff)**: Competitive spending tracker. Two-tap logging, monthly settle-up.
